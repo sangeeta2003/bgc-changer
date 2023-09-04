@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height: 50%;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 50px;
+    cursor: pointer;
+
+
+}
+#white{
+    background-color: white;
+}
+#aqua{
+    background-color: aquamarine;
+}
+#violet{
+    background-color: violet;
+}
+#black{
+    background-color: black;
+}
+#color-switcher{
+    text-align: right;
+}
